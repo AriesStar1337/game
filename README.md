@@ -1,1 +1,1 @@
-# game
+# GunGunGun, the game
